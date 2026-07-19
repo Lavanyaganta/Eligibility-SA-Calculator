@@ -253,15 +253,4 @@ if calculate:
     unsafe_allow_html=True
 )
 
-                st.markdown(
-    """
-    <div style="
-        text-align:center;
-        color:#808080;
-        font-size:13px;">
-        Version 1.0 | Developed by <b>Lavanya Ganta</b>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
  
