@@ -15,4 +15,3 @@ A Streamlit-based internal calculator to estimate the indicative eligible Sum As
 - Streamlit
 - num2words
 
-Developed by Lavanya Ganta
